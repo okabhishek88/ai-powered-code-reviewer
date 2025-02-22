@@ -19,8 +19,6 @@ This is an AI-driven tool designed to help developers review their code by provi
 ```bash
 git clone https://github.com/okabhishek88/ai-powered-code-reviewer.git
 
-cd ai-powered-code-reviewer
-
 ```
 
 2. Install dependencies: Run the following command to install the necessary dependencies:
