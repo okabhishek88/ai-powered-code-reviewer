@@ -1,7 +1,0 @@
-{
-    "rewrites": [
-      { "source": "/ai/(.*)", "destination": "/backend/ai/$1" },
-      { "source": "/src/(.*)", "destination": "/src/$1" },
-      { "source": "/(.*)", "destination": "/index.html" }
-    ]
-  }
