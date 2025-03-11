@@ -41,3 +41,7 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+Screenshot: 
+
+![Image](https://github.com/user-attachments/assets/405b08fe-9656-4b7d-b852-17a865ff7e62)
